@@ -127,8 +127,7 @@ myStylesheet.onerror = function() {
 <link rel="stylesheet" href="mystylesheet.css"
  id="my-stylesheet">
 ```
-
-
+* For emojo images, you can use: [https://emojipedia.org].
 
 
 

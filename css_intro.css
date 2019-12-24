@@ -1,0 +1,24 @@
+/* ******************* TAG Selector ***********************  */
+h1{
+  color:red;
+}
+
+
+/* img{
+  background-color:red;
+} */
+/* ***************** CLASS SELECTORS ************************ */
+.bacon{
+  background-color:green;
+
+}
+.wrench{
+  background-color:red;
+}
+
+
+/* **************  CSS PSEUDO-CLASSES**************** */
+p:hover{
+  background-color: powderblue;
+  transition: background-color .5s;
+}

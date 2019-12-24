@@ -9,13 +9,11 @@ div.border{border:2px solid brown;text-align:center;}
 
 div,h2,h3,h4,p,time{margin:initial;}
 
-
-
-
 </style>
 
 
 # Front-End Developer 2019 Career Course
+
 
 <div class="border">
 

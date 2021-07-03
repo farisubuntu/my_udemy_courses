@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Custom #1" index="0"/>
+  <styles>
+    <style level="0" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="false" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-164.80818684895823" y="-852.69258626302076" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="160.80818684895823" posy="852.69258626302076" maxwidth="200" width="82" height="56" side="left" fold="false" treesize="2023" layout="Vertical">
+      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+      <nodename>&lt;b&gt;Jekyll&lt;/b&gt;</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="-151.19181315104177" posy="693.69258626302076" maxwidth="200" width="90" height="59" side="top" fold="false" treesize="2029" color="#7a36b1" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 13" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Setup&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="-1092.1918131510417" posy="539.69258626302076" maxwidth="200" width="130" height="54" side="top" fold="false" treesize="187" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Prerequests</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="-1120.6918131510417" posy="385.69258626302076" maxwidth="200" width="187" height="54" side="top" fold="false" treesize="187" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;First, install Ruby&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="9" posx="-894.69181315104174" posy="539.69258626302076" maxwidth="200" width="129" height="54" side="top" fold="false" treesize="207" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>install jekyll</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="11" posx="-933.69181315104174" posy="359.69258626302076" maxwidth="200" width="207" height="80" side="top" fold="false" treesize="207" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt; $ gem install jekyll bundler&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="13" posx="-626.69181315104174" posy="539.69258626302076" maxwidth="200" width="167" height="54" side="top" fold="false" treesize="367" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>create a new file</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="15" posx="-726.69181315104174" posy="385.69258626302076" maxwidth="200" width="145" height="54" side="top" fold="false" treesize="145" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;$ bundle init&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="17" posx="-581.69181315104174" posy="359.69258626302076" maxwidth="200" width="222" height="80" side="top" fold="false" treesize="222" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;append: gem "jekyll" Gemfile&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="19" posx="-359.69181315104174" posy="513.69258626302076" maxwidth="200" width="203" height="80" side="top" fold="false" treesize="203" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>install jekyll for your project</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="21" posx="-312.19181315104174" posy="359.69258626302076" maxwidth="200" width="108" height="54" side="top" fold="false" treesize="108" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;$ bundle&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="23" posx="-156.69181315104177" posy="539.69258626302076" maxwidth="200" width="220" height="54" side="top" fold="false" treesize="220" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Create a Site Directory</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="25" posx="-145.69181315104174" posy="307.69258626302076" maxwidth="200" width="198" height="132" side="top" fold="false" treesize="198" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;Create a new directory for your site - this will be called: the root dir&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="27" posx="72.308186848958258" posy="513.69258626302076" maxwidth="200" width="201" height="80" side="top" fold="false" treesize="219" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>insite the directory - add the first file</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="29" posx="65.308186848958258" posy="357.69258626302076" maxwidth="200" width="215" height="56" side="top" fold="false" treesize="219" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;$ touch index.html&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="31" posx="63.308186848958258" posy="-82.307413736979242" maxwidth="200" width="219" height="340" side="top" fold="false" treesize="219" color="#7a36b1" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;meta charset="utf-8"&amp;gt;
+    &amp;lt;title&amp;gt;Home&amp;lt;/title&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;h1&amp;gt;Hello World!&amp;lt;/h1&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="33" posx="351.80818684895826" posy="539.69258626302076" maxwidth="200" width="72" height="54" side="top" fold="false" treesize="211" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>Build</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="35" posx="282.30818684895826" posy="307.69258626302076" maxwidth="200" width="211" height="132" side="top" fold="false" treesize="211" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;$ jekyll build - outputs a static site to a folder called _site&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="37" posx="600.80818684895826" posy="509.69258626302076" maxwidth="200" width="200" height="84" side="top" fold="false" treesize="415" color="#7a36b1" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+              <nodename>&lt;b&gt;use your browser and go to:&lt;/b&gt;</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="39" posx="493.30818684895826" posy="355.69258626302076" maxwidth="200" width="204" height="54" side="top" fold="false" treesize="204" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;http://127.0.01:4000&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="697.30818684895826" posy="251.69258626302076" maxwidth="200" width="211" height="158" side="top" fold="false" treesize="211" color="#7a36b1" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+                  <nodename>&lt;b&gt;$ jekyll serve --livereload&#xA0;=&amp;gt; build and serve on a local web server plus live update&lt;/b&gt;</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="83" posx="908.30818684895826" posy="698.69258626302076" maxwidth="200" width="141" height="54" side="top" fold="false" treesize="141" color="#f9c440" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Deployment&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="81" posx="1049.3081868489583" posy="696.69258626302076" maxwidth="200" width="137" height="56" side="top" fold="false" treesize="137" color="#f37329" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Collections&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="77" posx="1186.3081868489583" posy="698.69258626302076" maxwidth="200" width="87" height="54" side="top" fold="false" treesize="87" color="#333333" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Assets&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="73" posx="1273.3081868489583" posy="698.69258626302076" maxwidth="200" width="106" height="54" side="top" fold="false" treesize="106" color="#7a36b1" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Includes&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="69" posx="1379.3081868489583" posy="698.69258626302076" maxwidth="200" width="145" height="54" side="top" fold="false" treesize="145" color="#68b723" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Front Matter&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="43" posx="-7.6918131510417425" posy="1008.6925862630208" maxwidth="200" width="90" height="56" side="bottom" fold="false" treesize="1088" color="#f9c440" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Liquid&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="45" posx="-61.191813151041742" posy="1164.6925862630208" maxwidth="200" width="197" height="132" side="bottom" fold="false" treesize="1088" color="#f9c440" layout="Vertical">
+              <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename>It's a  templating language which has three main components</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="47" posx="-438.69181315104174" posy="1396.6925862630208" maxwidth="200" width="90" height="54" side="bottom" fold="false" treesize="226" color="#f9c440" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>objects</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="49" posx="-493.69181315104174" posy="1550.6925862630208" maxwidth="200" width="200" height="210" side="bottom" fold="false" treesize="226" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>tell Liquid to output predefined 
+variables as content on a page. 
+Use double curly braces for objects:
+ {{ and }}.</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="51" posx="-506.69181315104174" posy="1860.6925862630208" maxwidth="200" width="226" height="80" side="bottom" fold="false" treesize="226" color="#f9c440" layout="Vertical">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>&#xA0;{{ page.title }} displays
+the page.title variable.</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="53" posx="-92.191813151041742" posy="1396.6925862630208" maxwidth="200" width="65" height="54" side="bottom" fold="false" treesize="442" color="#f9c440" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>tags</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="55" posx="-280.69181315104174" posy="1550.6925862630208" maxwidth="200" width="199" height="106" side="bottom" fold="false" treesize="199" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>Define the logic and control flow for templates.</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="57" posx="-81.691813151041742" posy="1550.6925862630208" maxwidth="200" width="215" height="132" side="bottom" fold="false" treesize="215" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>Use curly brackes and percent
+signs for object:{% and %}.&#xA0;&#xA0;</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="59" posx="133.30818684895826" posy="1550.6925862630208" maxwidth="200" width="28" height="52" side="bottom" fold="false" treesize="28" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename></nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="61" posx="332.30818684895826" posy="1396.6925862630208" maxwidth="200" width="78" height="54" side="bottom" fold="false" treesize="420" color="#f9c440" layout="Vertical">
+                  <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename>filters</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="63" posx="161.30818684895826" posy="1550.6925862630208" maxwidth="200" width="209" height="158" side="bottom" fold="false" treesize="209" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>Filters change the output of a Liquid object. They are used within an output and are separated by a |.</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="65" posx="370.30818684895826" posy="1550.6925862630208" maxwidth="200" width="211" height="80" side="bottom" fold="false" treesize="211" color="#f9c440" layout="Vertical">
+                      <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename>displays Hi instead of hi</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="67" posx="377.30818684895826" posy="1730.6925862630208" maxwidth="200" width="197" height="54" side="bottom" fold="false" treesize="197" color="#f9c440" layout="Vertical">
+                          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename>{{ "hi" | capitalize }}</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="79" posx="581.30818684895826" posy="1008.6925862630208" maxwidth="200" width="111" height="54" side="bottom" fold="false" treesize="111" color="#c6262e" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Blogging&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="75" posx="692.30818684895826" posy="1008.6925862630208" maxwidth="200" width="119" height="54" side="bottom" fold="false" treesize="119" color="#715344" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Data Files&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="71" posx="811.30818684895826" posy="1008.6925862630208" maxwidth="200" width="99" height="54" side="bottom" fold="false" treesize="99" color="#3689e6" layout="Vertical">
+          <style linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="SansSerif 12" nodemarkup="true"/>
+          <nodename>&lt;b&gt;Layouts&lt;/b&gt;</nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>

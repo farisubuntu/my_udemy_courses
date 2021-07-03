@@ -8,4 +8,5 @@ function init(){
 
   var todayElem=document.querySelector('#today');
   todayElem.setAttribute('value',today.toDateString());//toDateString return "D M d yyyy", for example: "Thu Apr 14 2016"
+  // save all input
 }

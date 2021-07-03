@@ -38,11 +38,13 @@ Description of Same-Page Links
 ```
 * Creating an email link:
 (for more [https://tools.ietf.org/html/rfc6068])
+
 ```html
 <a href="mailto:nowhere@mozilla.org">Send email to nowhere</a>
 ```
 * Creating a phone link:
 (for more: [https://tools.ietf.org/html/rfc3966])
+
 ```html
 <a href="tel:+491570156">+49 157 0156</a>
 ```
@@ -50,11 +52,13 @@ Description of Same-Page Links
 see [https://jsfiddle.net/codepo8/V6ufG/2/]
 
 * Link that opens a new tab or window:
+
 ```html
 <a target="_blank" href="https://www.wikipedia.org/">Wikipedia (opens in a new window)</a>
 ```
 
 * Link to a non-HTML resource:
+
 ```html
 <a target="_blank" href="2017-annual-report.ppt">2017 Annual Report (PowerPoint)</a>
 ```
@@ -62,9 +66,11 @@ see [https://jsfiddle.net/codepo8/V6ufG/2/]
 #### Links:
 
 * Link external stylesheet:
+
 ```html
 <link href="main.css" rel="stylesheet">
 ```
+
 * links types:
   - `alternate`: If the element is `<link>` and the `rel` attribute also contains the `stylesheet` type, the link defines an alternative style sheet; in that case the `title` attribute must be present and not be the empty string. `alternate` allowed in these elements: `<a>, <area>, <link>`
 
@@ -75,6 +81,7 @@ see [https://jsfiddle.net/codepo8/V6ufG/2/]
   - For more: [https://devdocs.io/html/link_types].
 
 * To link to the site's favicon:
+
 ```html
  <link rel="icon" href="favicon.ico">
  ```
@@ -83,14 +90,16 @@ see [https://jsfiddle.net/codepo8/V6ufG/2/]
 <link rel="apple-touch-icon-precomposed" sizes="114x114"
 href="apple-icon-114.png" type="image/png">
 ```
+
 * To provide a media type or query inside a media attribute; <em>this resource will then only be loaded if the media condition is true.</em> :
-```HTML
+
+```html
 <link href="print.css" rel="stylesheet" media="print">
-<link href="mobile.css" rel="stylesheet"
-```media="screen and (max-width: 600px)">
+<link href="mobile.css" rel="stylesheet" media="screen and (max-width: 600px)">
 ```
 * Providing icons for different usage contexts:
-```HTML
+
+```html
 <!-- third-generation iPad with high-resolution Retina display: -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144"
 href="favicon144.png">
@@ -107,13 +116,15 @@ href="favicon72.png">
 ```
 
 * Conditionally loading resources with media queries:
-```HTML
+
+```html
 <link href="print.css" rel="stylesheet" media="print">
 <link href="mobile.css" rel="stylesheet" media="all">
 <link href="desktop.css" rel="stylesheet" media="screen and (min-width: 600px)">
 <link href="highres.css" rel="stylesheet" media="screen and (min-resolution: 300dpi)">
 ```
 * determine when a style sheet has been loaded by watching for a load event to fire on it:
+
 ```js
 <script>
 var myStylesheet = document.querySelector('#my-stylesheet');
@@ -128,22 +139,3 @@ myStylesheet.onerror = function() {
  id="my-stylesheet">
 ```
 * For emojo images, you can use: [https://emojipedia.org].
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
--

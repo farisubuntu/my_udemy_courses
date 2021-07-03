@@ -1,0 +1,25 @@
+div,ul,li,input{
+  padding: unset;
+  margin: unset;
+}
+body {
+  margin: 1%;
+  font-size: 12px;
+}
+
+
+div {
+  border: 1px solid blue;
+  /* margin: 5px 5px; */
+  font-size: 14px;
+  /* line-height: 2; */
+}
+input{
+  border-bottom: 2px solid green;
+  min-width: 98%;
+
+}
+
+li{
+  margin-bottom:5px;
+}
